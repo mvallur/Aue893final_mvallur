@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mkv/catkin_ws_reachgoal/src/assignment_04/devel/setup.sh

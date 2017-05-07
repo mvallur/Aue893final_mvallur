@@ -1,0 +1,2 @@
+mybot_ws/src/mybot_control:mybot_ws/src/mybot_description:mybot_ws/src/mybot_gazebo:mybot_ws/src/mybot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/mkv/catkin_ws_reachgoal/src/assignment_04/devel -DCMAKE_INSTALL_PREFIX=/home/mkv/catkin_ws_reachgoal/src/assignment_04/install -G Unix Makefiles
